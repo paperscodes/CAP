@@ -2,7 +2,7 @@
 
 Codes for our paper "CAP: Compcat Search for Automatic Filter Pruning", which efficiently search for the best pruned model in a compact search space using sparsity scaling. 
 
-## Prerequisite
+## Prerequisites
 
 - PyTorch 1.7+
 - [Apex](https://github.com/NVIDIA/apex) (for distributed running)
